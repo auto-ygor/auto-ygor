@@ -5,11 +5,22 @@ Olá, meu nome é **Ygor**, tenho **19 anos** e atualmente resido em **Gongogi**
 
 ---
 ## :right_anger_bubble: Minhas redes e formas de contato:
-* [LinkedIn](https://www.linkedin.com/in/ygor-q-b074a51b7/)
-* [Instagram](https://www.instagram.com/y.queiroz_/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ygor-q-b074a51b7/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="ygorqueiroz.oficial@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.instagram.com/y.queiroz_/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
 ---
-## :wrench: Tecnologias/Ferramentas em desenvolvimento:
-* `PYTHON` 
-* `GIT` 
-* `GITHUB` 
-* `VS CODE`
+## :wrench: Linguagens e Ferramentas/Tecnologias em desenvolvimento:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,vscode,github" />
+  </a>
+</p>
