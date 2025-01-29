@@ -9,7 +9,7 @@ Olá, meu nome é **Ygor**, tenho **19 anos** e atualmente resido em **Gongogi**
   <a href="https://www.linkedin.com/in/ygor-q-b074a51b7/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="ygorqueiroz.oficial@gmail.com">
+  <a href="mailto:ygorqueiroz.oficial@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.instagram.com/y.queiroz_/">
